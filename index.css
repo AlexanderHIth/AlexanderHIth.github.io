@@ -1,3 +1,7 @@
+.body {
+    background-color:  ;
+}
+
 .title {
     display: inline-block;
     margin-left: 30%;
@@ -6,20 +10,6 @@
     padding: 10px 10px;
     font-family:Arial, Helvetica, sans-serif
 }
-
-.about-me-section{
-    position: relative;
-    margin-top: 75px;
-    border: 5px solid;
-    border-color:cadetblue;
-    border-radius: 15px;
-    background-color: aquamarine;
-    padding: 10px 5px;
-    z-index: 0;
-}
-
-
-
 
 .list-bar{
     position: fixed;
@@ -50,3 +40,23 @@
     border-radius: 5px;
 }
 
+.about-me-section{
+    position: relative;
+    margin-top: 75px;
+    border: 5px solid;
+    border-color:cadetblue;
+    border-radius: 15px;
+    background-color: aquamarine;
+    padding: 10px 5px;
+    z-index: 0;
+}
+
+.skill-section {
+    margin-top: 25px;
+    background-color: orangered;
+    border: 5px solid;
+    border-color:cadetblue;
+    border-radius: 15px;
+    padding: 10px 5px;
+    z-index: 0;
+}
