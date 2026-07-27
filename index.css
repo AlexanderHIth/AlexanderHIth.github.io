@@ -4,7 +4,7 @@
 
 .title {
     display: inline-block;
-    margin-left: 30%;
+    margin-left: 40%;
     color:white;
     background-color: burlywood;
     padding: 10px 10px;
@@ -25,7 +25,7 @@
 
 .list-bar .list{
     position: fixed;
-    margin-left: 27.5%;
+    margin-left: 35%;
     display: flex;
     list-style: none;
     gap: 20px;
