@@ -1,11 +1,16 @@
-.body {
-    background-image: url('images/school.png')
+.skill-section {
+    margin-top: 100px;
+    background-color: orangered;
+    border: 5px solid;
+    border-color:cadetblue;
+    border-radius: 15px;
+    padding: 10px 5px;
+    z-index: 0;
 }
 
 .title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: inline-block;
+    margin-left: 45%;
     color:white;
     background-color: burlywood;
     padding: 10px 10px;
@@ -32,12 +37,12 @@
     z-index: 5;
 }
 
+
 .list-bar .list{
     display: flex;
     list-style: none;
     gap: 20px;
 }
-
 
 .list-bar .list a {
     background-color: rgb(255 0 0/ 50%);
@@ -45,15 +50,4 @@
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 5px;
-}
-
-.about-me-section{
-    position: relative;
-    margin-top: 95px;
-    border: 5px solid;
-    border-color:cadetblue;
-    border-radius: 15px;
-    background-color: aquamarine;
-    padding: 10px 5px;
-    z-index: 0;
 }
