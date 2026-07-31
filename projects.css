@@ -51,11 +51,13 @@
     border-color: aqua;
     border-radius: 5px;
     z-index: 5;
+    height: 125px;
+    
 }
 
 .HManContainer img {
     padding-right: 5px;
-    width: 100px;
+    width: 90px;
     height: 90px;        /* Allows the item to grow and shrink equally */
     min-width: 0;  
     float: left;
