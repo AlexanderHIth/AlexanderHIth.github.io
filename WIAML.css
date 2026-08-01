@@ -40,7 +40,8 @@
     border-radius: 5px;
 }
 
-.cloud-club {
+.AWS {
+    margin-top: 25px;
     background-color: orange;
     border: 5px solid;
     border-bottom: 6px solid;
@@ -48,22 +49,31 @@
     border-radius: 5px;
     z-index: 5;
     height: 125px;
+    
 }
 
-.racing-club {
+.AWS img {
+    padding-right: 5px;
+    width: 100px;
+    height: 90px;        
+    float: left;
+}
+
+.Unity {
+    margin-top: 25px;
     background-color: aquamarine;
     border: 5px solid;
     border-bottom: 6px solid;
-    border-color: orange;
+    border-color: aqua;
     border-radius: 5px;
     z-index: 5;
     height: 125px;
+    
 }
 
-.racing-club img {
+.Unity img {
     padding-right: 5px;
-    width: 90px;
-    height: 90px;        /* Allows the item to grow and shrink equally */
-    min-width: 0;  
+    width: 100px;
+    height: 90px;        
     float: left;
 }

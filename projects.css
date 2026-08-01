@@ -58,10 +58,67 @@
 .HManContainer img {
     padding-right: 5px;
     width: 90px;
-    height: 90px;        /* Allows the item to grow and shrink equally */
+    height: 90px;      
     min-width: 0;  
     float: left;
 }
 
+.DiscordBot {
+    margin-top: 25px;
+    background-color: orange;
+    border: 5px solid;
+    border-bottom: 6px solid;
+    border-color: aqua;
+    border-radius: 5px;
+    z-index: 5;
+    height: 125px;
+    
+}
+
+.DiscordBot img {
+    padding-right: 5px;
+    width: 90px;
+    height: 90px;        
+    float: left;
+}
+
+
+.UnityGame {
+    margin-top: 25px;
+    background-color: aquamarine;
+    border: 5px solid;
+    border-bottom: 6px solid;
+    border-color: aqua;
+    border-radius: 5px;
+    z-index: 5;
+    height: 125px;
+    
+}
+
+.UnityGame img {
+    padding-right: 5px;
+    width: 90px;
+    height: 90px;        
+    float: left;
+}
+
+.ForceApp {
+    margin-top: 25px;
+    background-color: orange;
+    border: 5px solid;
+    border-bottom: 6px solid;
+    border-color: aqua;
+    border-radius: 5px;
+    z-index: 5;
+    height: 125px;
+    
+}
+
+.ForceApp img {
+    padding-right: 5px;
+    width: 90px;
+    height: 90px;        
+    float: left;
+}
 
 
