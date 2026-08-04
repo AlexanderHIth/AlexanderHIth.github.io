@@ -41,5 +41,29 @@
 }
 
 .skill-section {
-    margin-top: 50px;
+    margin-top: 100px;
+    background-color: orange;
+    border: 5px solid;
+    border-bottom: 6px solid;
+    border-color: aqua;
+    border-radius: 5px;
+    display: flexbox;
+    z-index: 5;
+}
+
+.skill-section-title {
+    display: flex;
+    background-color: orange;
+
+}
+
+.skill-section-title {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    background-color: orange;
+    border: 5px solid;
+    border-color: black;
+    border-radius: 5px;
+
 }
